@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Semigrafika
 {
-    public class Class1
+    public static class Shape
     {
+
     }
 }
+
+
